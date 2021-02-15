@@ -1,0 +1,19 @@
+{
+    "name": "kawaiizapic/uno-bot-php",
+    "description": "UNO game bot in QQ based on Mirai",
+    "type": "project",
+    "require": {
+        "kawaiizapic/mirai-php": "dev-master"
+    },
+    "require-dev": {
+        "swoole/ide-helper": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KawaiiZapic",
+            "email": "zapic233@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
